@@ -1,5 +1,9 @@
 Why Do We Need Data Formats?
-
+A data format refers to the structure and arrangement in which
+data is organized, stored and presented. Data formats define how
+data elements are represented to ensure it is accurately
+exchanged, processed & interpreted by computer systems
+& applications.
 
 What Is JSON?
 1) - JSON Stands for Java Script Object Notation
