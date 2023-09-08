@@ -10,3 +10,15 @@ as well as other senior members of staff.
 What Is an Interpreter
 The "translater" of your system which allows the conversion of high
 level programming languages to low level machine code.
+
+Object Oriented programming
+This is a programming paradigm designed to facilitate a specific methodology
+when builting tools/systems in your programming language of course.
+
+Programming paradigm
+This is an approach to organizing and structuring your code. There
+are three paradigms,
+
+    1)  Procedural Programming  
+    2)  Object Oriented Programming
+    3)  Functional Programming
