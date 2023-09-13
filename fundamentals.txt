@@ -1,1 +1,9 @@
 What is Python?
+    🚀A free, open source, object oriented programming (OOP) 
+    language.
+
+
+
+    STEP 1 - git add <file_name>
+    STEP 2 - git commit -m "Commit unique to code entered"
+    
