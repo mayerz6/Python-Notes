@@ -24,8 +24,8 @@ class DB:
     def fetchData(self):
         print(f'Records retrieved from backend database')
 
-time = DB()
-time.getConnection()
-time.fetchData()
+# time = DB()
+# time.getConnection()
+# time.fetchData()
 
  ## print(text1 + ' ' + text2)
